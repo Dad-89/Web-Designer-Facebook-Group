@@ -1,0 +1,36 @@
+Qui verranno raccolte tutti i Plugin e i Tutorial su jQuery.
+Se voltete condividere, insieme a gli altri, tutorial o plugin che trovate in rete non esitare a modificare questo documento. Rendiamolo accessibile a tutti i nostri colleghi!
+ 
+jQuery Masonry:
+Allineamento verticale e orizzontale di elementi con larghezza o altezza sconosciuta in modo da creare una perfetta griglia. Più semplice visitare il sito e vedere il risultato.
+http://desandro.com/resources/jquery-masonry/
+ 
+jQuery Cycle:
+Slideshow con differenti tipi di effetti di transizioni
+http://malsup.com/jquery/cycle/
+ 
+jQuery Flip: Slideshow di elementi con 4 differenti tipi di effetti.
+http://lab.smashup.it/flip/
+ 
+jQuery Jcrop: Ottimo plugin per creare/ritagliare le dimensioni di una foto.C'è anche un esempio per creare una miniatura
+http://deepliquid.com/content/Jcrop_Download.html
+ 
+jQuery Lazy Load: Ritarda il caricamento di immagini nelle pagine web lunghe. Le immagini al di fuori della finestra di visualizzazione (parte visibile della pagina Web) non saranno caricate prima che l'utente non scorre fino a raggiungerle. Questo è l'opposto di precaricamento delle immagini.
+https://github.com/tuupola/jquery_lazyload
+ 
+jQuery Easing: Per aggiungere opzioni di "frizione" agli elementi.
+http://gsgd.co.uk/sandbox/jquery/easing/
+ 
+jQuery Bubble Popup: Visualizza popup/tooltip animato e con ombra dove si possono inserire poceh righe di testo o HTML. Supporta tutti i browser e HTML5.
+http://www.vegabit.com/jquery_bubble_popup_v2/
+ 
+jQuery Tipsy: Permette di realizzare dei popup simili a quelli usati su facebook; altamente personalizzabile e con svariate opzioni di visualizzazione del popup stesso.
+http://onehackoranother.com/projects/jquery/tipsy/
+ 
+JQuery Easy Accordion:  Creazione slider orizzontali con effetto fisarmonica.
+http://www.madeincima.eu/it/articoli/jquery-plugin/jquery-plugin-easy-accordion-2/
+ 
+jQuery Captify: plugin carino che crea in automatico delle caption per le immagini che compaio al rollover, si può specificare l'utilizzo del contenuto dell'attributo ALT o del contenuto di un div specifico (collegandolo con l'attributo rel).
+ http://thirdroute.com/projects/captify/
+ 
+Author: Patrick Guido Arminio
